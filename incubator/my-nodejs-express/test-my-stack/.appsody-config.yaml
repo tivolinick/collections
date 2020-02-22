@@ -1,0 +1,2 @@
+project-name: test-my-stack
+stack: dev.local/appsody/my-nodejs-express:0.4
